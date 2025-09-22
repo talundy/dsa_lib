@@ -8,23 +8,23 @@ i'm coding this raw, using Vim only. no autocomplete. no Cursor.
 
 Claude used for Directory Layout creation only. Shown below: 
 
-dsa_lib/\
-├── include/\
-│   └── dsa/\
-│       ├── vector.h\
-│       ├── list.h\
-│       ├── stack.h\
-│       ├── queue.h\
-│       ├── hashtable.h\
-│       ├── tree.h\
-│       ├── bst.h\
-│       ├── heap.h\
-│       ├── trie.h\
-│       ├── graph.h\
-│       ├── sort.h\
-│       ├── search.h\
-│       ├── common.h\
-│       └── dsa.h          // Main header that includes all others\
+dsa_libg
+├── includeg
+│   └── dsag
+│       ├── vector.h  
+│       ├── list.h  
+│       ├── stack.h  
+│       ├── queue.h  
+│       ├── hashtable.h  
+│       ├── tree.h  
+│       ├── bst.h  
+│       ├── heap.h  
+│       ├── trie.h  
+│       ├── graph.h  
+│       ├── sort.h  
+│       ├── search.h  
+│       ├── common.h  
+│       └── dsa.h          // Main header that includes all others  
 ├── src/
 │   ├── data_structures/
 │   │   ├── vector.c
@@ -75,7 +75,7 @@ dsa_lib/\
 │   ├── API.md
 │   ├── DESIGN.md
 │   └── PERFORMANCE.md
-├── build/                 // Generated build artifacts
+├── buildg               // Generated build artifacts
 ├── Makefile
 ├── README.md
 ├── LICENSE
